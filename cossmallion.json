@@ -1,0 +1,195 @@
+{
+  "points": [
+    {
+      "id": "45994ebc-b829-44cb-aa60-01047367ef74",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 332.15974498710347,
+      "lng": 808.4730871666436,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "6c33112a-fadd-4277-b17b-70ab48b6c1e1",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 386.7421749920067,
+      "lng": 843.9283408450424,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "0f6f12ce-5204-4f30-89ae-20b15a19feca",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 374.1462296062598,
+      "lng": 844.3948573408107,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "8835c4de-1ff7-4faa-8e9e-cda562b8648f",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 333.55929447440866,
+      "lng": 824.3346480227693,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "bc112c6f-d256-4e2f-a046-b3a7c8952dcf",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 322.82941507173535,
+      "lng": 786.0802953697603,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "c607f789-8b87-4b93-a6fc-fa46985815fc",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 330.7601954997982,
+      "lng": 789.8124273359075,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "c973cfd4-9e26-470c-8952-f28a7626fd7d",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 328.42761302095624,
+      "lng": 814.0712851158645,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "0336e289-d073-4f16-a636-c6fbfb03b37d",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 333.09277797864024,
+      "lng": 789.8124273359075,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "9468c155-e274-4c0b-b3e3-f4e57c4b1cf0",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 327.028063533651,
+      "lng": 812.2052191327908,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "ba6ec5ea-a0eb-453f-b050-a60353d7eaa3",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 327.9610965251878,
+      "lng": 808.4730871666436,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "e02d895c-4ce3-487f-8666-9f0a20299f1b",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 334.95884396171385,
+      "lng": 837.3971099042847,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "717f44c0-d0a1-47c3-8ce9-f3a73f731ed7",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 338.2244594320927,
+      "lng": 807.0735376793384,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "1529e057-2115-4b46-a112-9f26afd8f245",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 298.10404079601,
+      "lng": 827.1337469973798,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "1abe7345-7bcd-4059-bd3e-5fcf63fb0458",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 336.82490994478746,
+      "lng": 815.4708346031697,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "35d23f24-31c9-4d77-9e54-b0483ac6e7a2",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 334.0258109701771,
+      "lng": 793.0780428062864,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "ad3035de-9acf-42a9-b2ae-48f112de916b",
+      "name": "Nouveau point",
+      "description": "",
+      "lat": 333.55929447440866,
+      "lng": 804.7409552004964,
+      "type": "GenoRyuvien",
+      "minZoom": 0,
+      "imageUrl": ""
+    }
+  ],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 323.7624480632722,
+            "lng": 769.2857015220977
+          },
+          {
+            "lat": 343.82265738131355,
+            "lng": 769.2857015220977
+          },
+          {
+            "lat": 343.82265738131355,
+            "lng": 857.4573192223261
+          },
+          {
+            "lat": 323.7624480632722,
+            "lng": 857.4573192223261
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Astéroïde",
+        "link": "CC/cossmallionE.html"
+      }
+    }
+  ]
+}
