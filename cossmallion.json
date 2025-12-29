@@ -1,0 +1,33 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 695,
+            "lng": 230
+          },
+          {
+            "lat": 686,
+            "lng": 379
+          },
+          {
+            "lat": 596,
+            "lng": 341
+          },
+          {
+            "lat": 600,
+            "lng": 204
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Astéroïde"
+      }
+    }
+  ]
+}
