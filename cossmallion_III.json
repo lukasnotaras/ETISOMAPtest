@@ -1,0 +1,63 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 349,
+            "lng": 278
+          },
+          {
+            "lat": 370,
+            "lng": 278
+          },
+          {
+            "lat": 370,
+            "lng": 392
+          },
+          {
+            "lat": 349,
+            "lng": 392
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Monde Caché",
+        "link": "cossmallion_IIIa/cossmallion_IIIa.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 349,
+            "lng": 1209
+          },
+          {
+            "lat": 371,
+            "lng": 1209
+          },
+          {
+            "lat": 371,
+            "lng": 1313
+          },
+          {
+            "lat": 349,
+            "lng": 1313
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "cossmallion_III/cossmallion_III.html"
+      }
+    }
+  ]
+}
