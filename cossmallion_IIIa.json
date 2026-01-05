@@ -1,0 +1,34 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 294,
+            "lng": 425
+          },
+          {
+            "lat": 320,
+            "lng": 425
+          },
+          {
+            "lat": 320,
+            "lng": 546
+          },
+          {
+            "lat": 294,
+            "lng": 546
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Monde Habitable",
+        "link": "plan/cossmallion_IIIa.html"
+      }
+    }
+  ]
+}
