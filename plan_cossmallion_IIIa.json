@@ -1,0 +1,545 @@
+{
+  "points": [
+    {
+      "id": "2460efa0-a1bd-4f33-b263-d922ddd60eff",
+      "name": "Cossmallia",
+      "description": "Population : 1 500 000\nMonde Capitale de Cossmallion IIIa et seule ville dépassant le million d'habitants",
+      "lat": 1405.0686091599446,
+      "lng": 3295.9044326391263,
+      "type": "Capitale",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "a13b7d3a-56e8-4ac5-a915-4efc0216e620",
+      "name": "Leper Point",
+      "description": "Capacité d'emport : Massive\nSeul vrai spatioport de tout Cossmallion IIIa",
+      "lat": 817.873228757889,
+      "lng": 3156.6230795318525,
+      "type": "Spatioport",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "b778383b-defd-4423-a5a3-ffa1affb7d6d",
+      "name": "Cairn Cadehar",
+      "description": "Nombre d'habitant : 15 000 ; \nCapacité d'accueil : moyenne ; Activités : Plages, Sports aquatiques\nStation Balnéaire au bord de l'Océan Souterrain central",
+      "lat": 3407.33490474103,
+      "lng": 2937.237600561123,
+      "type": "Cité touristique",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "3a45638e-51a0-4262-aa78-171b3d66f963",
+      "name": "Quincarnon",
+      "description": "Nombre d'habitant : 200 000\nRôle principal : Services\n",
+      "lat": 2947.6842073206767,
+      "lng": 2850.1825442315107,
+      "type": "Ville",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "c4253dc2-3747-41ea-b63b-8d5081654067",
+      "name": "Pious Ham",
+      "description": "Nombre d'habitant : 5 000\nRessources produites : Poissons, fruit de Mer",
+      "lat": 3944.586700357112,
+      "lng": 3149.267409336296,
+      "type": "Cité agricole",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "75518fb0-6217-417a-8c10-b579138946ee",
+      "name": "Hermit Jester",
+      "description": "Domaine de recherche : Physique\nTechnologie recherché : Point zéro",
+      "lat": 1877.927540375617,
+      "lng": 9825.004986325026,
+      "type": "Complexe de recherche",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "766695ff-ae1a-401d-8968-bc2b9dbebaba",
+      "name": "Lady Roseate",
+      "description": "Nombre d'habitant : 175 000\nRôle principal : Services",
+      "lat": 2378.5710065823782,
+      "lng": 1103.105394357045,
+      "type": "Ville",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "ae0f3ec2-55a6-4f06-85a7-c8d9e2cfc5c0",
+      "name": "Ruines",
+      "description": "Nombre de travailleur : 1000\nRessources exploités : Géothermie\nUne des trois stations pompant la puissance de la mer souterraine bouillonnante d'Omen",
+      "lat": 5237.403451705007,
+      "lng": 12222.774060368632,
+      "type": "Complexe énergétique",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "30a09cab-f547-4eb6-a4de-78e16ff2c718",
+      "name": "Warren",
+      "description": "Nombre de travailleur : 500\nRessources exploités : Géothermie\nUne des trois stations pompant la puissance de la mer souterraine bouillonnante d'Omen",
+      "lat": 5034.340352615947,
+      "lng": 11816.647862190513,
+      "type": "Complexe énergétique",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "b2b34d7b-ae12-47ce-9734-c2fbae8434cc",
+      "name": "Hamlet",
+      "description": "Nombre de travailleur : 500\nRessources exploités : Géothermie\nUne des trois stations pompant la puissance de la mer souterraine bouillonnante d'Omen",
+      "lat": 4572.980991485606,
+      "lng": 12375.477510883604,
+      "type": "Complexe énergétique",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "4f5df7a6-c4d4-42bd-812d-2cafffa0cde8",
+      "name": "Rhuva",
+      "description": "Nombre de travailleur : 600\nRessources exploités : fer, cuivre, tantale\n",
+      "lat": 3788.407174780222,
+      "lng": 14002.632947413858,
+      "type": "Complexe minier",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "53e26cfc-ef2c-46b3-93e4-74998da0de81",
+      "name": "Surtr",
+      "description": "Nombre de travailleur : 400\nRessources exploités : fer, platine\n",
+      "lat": 3101.3703422841972,
+      "lng": 14495.689014324224,
+      "type": "Complexe minier",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "7f3e42b2-82ce-46a1-8a11-5455850b8a6b",
+      "name": "Gallows",
+      "description": "Nombre d'habitant :45 000\nRôle principal : Cité dortoir et tourisme",
+      "lat": 3908,
+      "lng": 11906,
+      "type": "Village",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "53ce2645-7104-4413-a5dc-44829617d8cf",
+      "name": "Hunterra",
+      "description": "Nombre d'habitant : 300 000\nRôle principal : Cité dortoir",
+      "lat": 1198.113182981788,
+      "lng": 2842.2200398048144,
+      "type": "Ville",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "034b3a64-41e9-4dae-af09-4ed3e40ee08b",
+      "name": "Hastapoint",
+      "description": "Garnison : 15 000",
+      "lat": 2141.1737337144737,
+      "lng": 3145.136095981882,
+      "type": "Citadelle",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "0f865d16-c2db-45fd-b172-386c4b5eea5c",
+      "name": "Shieldbreaker",
+      "description": "Garnison : 3000",
+      "lat": 1720.3505754825069,
+      "lng": 2376.650511738345,
+      "type": "Fort",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "ecb08ba4-c7a8-4898-93ea-ffbad97d1f70",
+      "name": "Trinkets",
+      "description": "Garnison : 2000",
+      "lat": 2007.8879237926142,
+      "lng": 3741.234537616821,
+      "type": "Fort",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "5f28b1d9-46db-435d-b4d2-9f5820183c97",
+      "name": "Hellion",
+      "description": "Garnison : 3000",
+      "lat": 1077.7415973606019,
+      "lng": 4660.927715887449,
+      "type": "Fort",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "64e3b8ac-a469-4428-938f-f1e27684b89a",
+      "name": "Duckess",
+      "description": "Nombre d'habitant : 200 000\nRôle principal : Cité dortoir",
+      "lat": 1194.3953728422825,
+      "lng": 3948.8173551112195,
+      "type": "Ville",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "5b444ac7-44fa-4c37-aacc-33f448e2d5f9",
+      "name": "Curiosity",
+      "description": "Garnison : 300 ",
+      "lat": 920.8960211819974,
+      "lng": 1514.3076284142471,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "73a45e66-ca8c-452f-8041-93775f00a915",
+      "name": "Coach",
+      "description": "Garnison : 300",
+      "lat": 758.3849586204685,
+      "lng": 2491.836292610111,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "72fbab1a-a085-436d-b40c-b9920f28c2dd",
+      "name": "Crypt",
+      "description": "Garnison : 250",
+      "lat": 1561.091116121354,
+      "lng": 5633.716835466337,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "459712b7-404d-4261-8620-46cbf80a33b7",
+      "name": "Durville Wagon",
+      "description": "Nombre d'habitant : 7 500\nRessources produites : Poissons, fruit de Mer",
+      "lat": 3295.1678155936056,
+      "lng": 4153.063392238491,
+      "type": "Cité agricole",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "78bf2254-d90b-461a-9ddd-7c615f297578",
+      "name": "Reynauld",
+      "description": "Nombre d'habitant : 45 000\nRôle principal : Services\n",
+      "lat": 3851.7008635212687,
+      "lng": 8117.650449184218,
+      "type": "Village",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "c57fddab-c637-45d5-aaae-1c057c6d67f6",
+      "name": "Unrelentom",
+      "description": "Garnison : 2000",
+      "lat": 5391.731407012691,
+      "lng": 9456.242398379294,
+      "type": "Fort",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "3650a94a-8c8f-4213-8223-69568117339e",
+      "name": "Crimson Court",
+      "description": "Capacité d'emport : petite",
+      "lat": 5869.25189774247,
+      "lng": 14801.100677160704,
+      "type": "Spatioport",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "46c8ad84-2ec7-4b55-a1f1-d743b9032f73",
+      "name": "Hightide",
+      "description": "Capacité d'emport : ridicule",
+      "lat": 1117.8791273171842,
+      "lng": 10706.031818447393,
+      "type": "Spatioport",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "c5a6d371-e2b0-451c-8404-cf525c4dc358",
+      "name": "Robber",
+      "description": "Garnison : 200",
+      "lat": 4333.946305697331,
+      "lng": 9861.596781018496,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "d084bb36-288f-45f4-915d-95f83d03c5ae",
+      "name": "Bounty",
+      "description": "Garnison : 200",
+      "lat": 3422.8315982451763,
+      "lng": 9254.803804082947,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "e0928c93-3cb4-451c-a3cb-344bd286a9ee",
+      "name": "Hunter",
+      "description": "Garnison : 200",
+      "lat": 2622.0982966479264,
+      "lng": 9105.95889207746,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "5f979449-2e5f-4063-b8a2-30ea1f3d60db",
+      "name": "Grave",
+      "description": "Garnison : 200",
+      "lat": 5014.846295103398,
+      "lng": 9881.86265406996,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "856bf0b3-68bc-48a9-8119-9952836eeb8d",
+      "name": "Lamia",
+      "description": "⦁\tCité Touristique\n\nNombre d'habitant : 1500\nAttraction : Luxueuses",
+      "lat": 4415.706665649528,
+      "lng": 4205.639066992414,
+      "type": "Cité touristique",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "1f9ed1fb-9b06-45ce-bc5a-4538cf9fd2c2",
+      "name": "Flagellant",
+      "description": "Nombre d'habitant : 7500\nActivité : Production militaire",
+      "lat": 4565.1671539248755,
+      "lng": 2193.787419506233,
+      "type": "Cité industrielle",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "9bd3c83b-1d92-4402-b08f-ee971ffb4a9f",
+      "name": "Moon Rising",
+      "description": "Nombre d'habitant : 15 000\nActivité : Production militaire",
+      "lat": 3995.1728786796884,
+      "lng": 2568.4895217733706,
+      "type": "Cité industrielle",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "aab7fa37-932e-4a49-b96a-ab509e9a6407",
+      "name": "Avant Garde",
+      "description": "Garnison : 300",
+      "lat": 3203.6260729297373,
+      "lng": 518.84813572449,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "d7aabced-73c0-4943-afec-92ab012b876a",
+      "name": "Courtyard",
+      "description": "Garnison : 150",
+      "lat": 4460.701086329341,
+      "lng": 1361.5410809951384,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "f2434923-5609-421d-baf4-789c2f40b846",
+      "name": "Musketter",
+      "description": "Garnison : 120",
+      "lat": 5463.575335246475,
+      "lng": 5139.730525700317,
+      "type": "Avant-Poste",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "b43e8567-ecd1-48e6-928a-0a34d0e7a622",
+      "name": "Ship Wreck",
+      "description": "Nombre d'habitant : 12 000\nActivité : Production de biens de consommations\n",
+      "lat": 3784.348688096661,
+      "lng": 5726.664332754362,
+      "type": "Cité industrielle",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "23eeda0b-fddd-46a4-890b-cdee5e023589",
+      "name": "Crusader Keep",
+      "description": "Nombre d'habitant : 4500\nActivité : Production militaire\n",
+      "lat": 3304.047808575328,
+      "lng": 10930.803532842658,
+      "type": "Cité industrielle",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "1bec111f-0c8f-4ea5-bc94-45b1e37caa07",
+      "name": "Werewolf Lair",
+      "description": "Nombre de travailleur : 3300\nRessources exploités : Azote et Oxygène ",
+      "lat": 4467.388179959296,
+      "lng": 6946.382493638527,
+      "type": "Site d'extraction",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "7b1e8307-ae90-40d9-9c2a-7918e731db3c",
+      "name": "Collector Point",
+      "description": "Nombre de travailleur : 650\nRessources exploités : Tritium\n",
+      "lat": 216.6814167487053,
+      "lng": 11794.363479844298,
+      "type": "Site d'extraction",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "dd1ea636-0941-44dc-9622-3d6718785a5c",
+      "name": "Seraphin Inferno",
+      "description": "Nombre d'habitant : 150 000\nRôle principal : Services\n",
+      "lat": 1934.4080298150072,
+      "lng": 13044.618519346332,
+      "type": "Ville",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "bcbbae28-f635-44f0-9ffd-55fc68f9458b",
+      "name": "Shambler Coin",
+      "description": "Nombre d'habitant : 35 000\nRôle principal : Logement de travailleur",
+      "lat": 3174.5929960325,
+      "lng": 13382.163453228157,
+      "type": "Village",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "a2ac310e-f7f9-40a7-b54e-84afb4169569",
+      "name": "Rothel Star",
+      "description": "Nombre d'habitant : 3500\nRessources produites : Champignons, moisissures",
+      "lat": 4353.543804822423,
+      "lng": 11455.114767587902,
+      "type": "Cité agricole",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "2d45d30e-dbbf-4932-bee1-0354be4aa547",
+      "name": "Parcelsus Degre",
+      "description": "Garnison : 1500",
+      "lat": 5566.592228315632,
+      "lng": 11709.831030839776,
+      "type": "Fort",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "2ad264ad-68ff-469e-bf90-a984d15b26ac",
+      "name": "Swirling Blackness",
+      "description": "Une étrange pyramide noire que l'on attribu aux anciens Ryuviens",
+      "lat": 2218.1628352785247,
+      "lng": 10773.933771352833,
+      "type": "Site Important",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "c801f02f-1d45-4b6b-a611-52c7ba04c9f4",
+      "name": "Leshachikha",
+      "description": "Nombre d'habitant : 30 000\nRôle principal : Services\n",
+      "lat": 2518,
+      "lng": 10838,
+      "type": "Village",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "e463a01d-755b-48bd-9730-04a0b5ee8be5",
+      "name": "Instar",
+      "description": "Domaine de recherche : Chimie\nTechnologie recherché : Matériaux innovants",
+      "lat": 2774.8401168304654,
+      "lng": 12963.560384412403,
+      "type": "Complexe de recherche",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "38ac4325-53d5-4084-a90c-fb87a3d09fe5",
+      "name": "Helmet Off",
+      "description": "Nombre de travailleur : 3300\nRessources exploités : Azote et Oxygène",
+      "lat": 4904.941975837341,
+      "lng": 6193.781530144013,
+      "type": "Site d'extraction",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "7beebd26-d3a5-4afe-b8a6-e90bd4236ffc",
+      "name": "Luce Vestal",
+      "description": "Nombre d'habitant : 33 000\nRôle principal : Services",
+      "lat": 5032.715847823236,
+      "lng": 14438.598597628445,
+      "type": "Village",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "66483bb0-9b3b-4d68-a41f-cccc9bba0590",
+      "name": "Highwayman",
+      "description": "Nombre d'habitant : 17 500\nActivité : Sidérurgique, manufacture\n",
+      "lat": 3729.863004067834,
+      "lng": 13649.089268370184,
+      "type": "Cité industrielle",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "bc14bc2a-33bb-4835-b2bc-8c75a1a9fb20",
+      "name": "Wayne Rest",
+      "description": "Garnison : 3000",
+      "lat": 1379.204569012888,
+      "lng": 11758.165689652866,
+      "type": "Fort",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "8a2a37fa-7eb6-47cf-8b37-9986d246b3d8",
+      "name": "Sybil Stock",
+      "description": "Domaine de recherche : Militaro Industriel\nTechnologie recherché : Véhicule terrestre ",
+      "lat": 1567.4954257818365,
+      "lng": 11995.072139197197,
+      "type": "Complexe de recherche",
+      "minZoom": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "2148ccfb-1ff4-4ab0-90fa-1ee139ef5775",
+      "name": "Occult Gate",
+      "description": "Civilisation : inconnue\ndate d'occupation : inconnue\nPortes monumentales ouvrant sur les grottes\n",
+      "lat": 1825.0125314459954,
+      "lng": 14790.438981841471,
+      "type": "Ruine notable",
+      "minZoom": 0,
+      "imageUrl": ""
+    }
+  ],
+  "zones": []
+}
