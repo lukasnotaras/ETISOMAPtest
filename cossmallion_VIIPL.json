@@ -1,0 +1,63 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 334.8251323586219,
+            "lng": 188.02987728513742
+          },
+          {
+            "lat": 353.2982431094424,
+            "lng": 188.02987728513742
+          },
+          {
+            "lat": 353.2982431094424,
+            "lng": 301.50755761160633
+          },
+          {
+            "lat": 334.8251323586219,
+            "lng": 301.50755761160633
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion VII",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "cossmallion_VII/cossmallion_VII.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 372.75,
+            "lng": 1628
+          },
+          {
+            "lat": 391.5,
+            "lng": 1628
+          },
+          {
+            "lat": 391.5,
+            "lng": 1748.5
+          },
+          {
+            "lat": 372.75,
+            "lng": 1748.5
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion_VIIa",
+        "desc": "",
+        "objectType": "Monde Ressource",
+        "link": "cossmallion_VIIa/cossmallion_VIIa.html"
+      }
+    }
+  ]
+}
