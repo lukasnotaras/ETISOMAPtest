@@ -1,0 +1,34 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 297.17100780447316,
+            "lng": 327.028063533651
+          },
+          {
+            "lat": 319.56379960135655,
+            "lng": 327.028063533651
+          },
+          {
+            "lat": 319.56379960135655,
+            "lng": 443.6571874757519
+          },
+          {
+            "lat": 297.17100780447316,
+            "lng": 443.6571874757519
+          }
+        ]
+      ],
+      "data": {
+        "name": "Gros Plan",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "cossmallion_VaGP/cossmallion_VaGP.html"
+      }
+    }
+  ]
+}
