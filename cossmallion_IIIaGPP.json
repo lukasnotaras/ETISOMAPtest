@@ -1,0 +1,63 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 294,
+            "lng": 425
+          },
+          {
+            "lat": 320,
+            "lng": 425
+          },
+          {
+            "lat": 320,
+            "lng": 546
+          },
+          {
+            "lat": 294,
+            "lng": 546
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Monde Habitable",
+        "link": "plan/cossmallion_IIIa.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 269,
+            "lng": 425
+          },
+          {
+            "lat": 289,
+            "lng": 425
+          },
+          {
+            "lat": 289,
+            "lng": 546
+          },
+          {
+            "lat": 269,
+            "lng": 546
+          }
+        ]
+      ],
+      "data": {
+        "name": "Gros Plan",
+        "desc": "",
+        "objectType": "Astéroïde",
+        "link": "cossmallion_IIIaGP/cossmallion_IIIaGP.html"
+      }
+    }
+  ]
+}
