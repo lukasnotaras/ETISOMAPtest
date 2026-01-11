@@ -1,0 +1,34 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 201,
+            "lng": 427
+          },
+          {
+            "lat": 222,
+            "lng": 427
+          },
+          {
+            "lat": 222,
+            "lng": 538
+          },
+          {
+            "lat": 201,
+            "lng": 538
+          }
+        ]
+      ],
+      "data": {
+        "name": "Gros plan du monde",
+        "desc": "",
+        "objectType": "Monde Gelé",
+        "link": "cossmallion_VIGP/cossmallion_VIGP.html"
+      }
+    }
+  ]
+}
