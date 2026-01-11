@@ -1,0 +1,63 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 272,
+            "lng": 310
+          },
+          {
+            "lat": 295,
+            "lng": 310
+          },
+          {
+            "lat": 295,
+            "lng": 412
+          },
+          {
+            "lat": 272,
+            "lng": 412
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion V",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "cossmallion_V/cossmallion_V.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 237,
+            "lng": 1535
+          },
+          {
+            "lat": 262,
+            "lng": 1535
+          },
+          {
+            "lat": 262,
+            "lng": 1649
+          },
+          {
+            "lat": 237,
+            "lng": 1649
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion Va",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "cossmallion_Va/cossmallion_Va.html"
+      }
+    }
+  ]
+}
