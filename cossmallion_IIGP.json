@@ -1,0 +1,34 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 259,
+            "lng": 348
+          },
+          {
+            "lat": 282,
+            "lng": 348
+          },
+          {
+            "lat": 282,
+            "lng": 460
+          },
+          {
+            "lat": 259,
+            "lng": 460
+          }
+        ]
+      ],
+      "data": {
+        "name": "Gros plan",
+        "desc": "",
+        "objectType": "Monde Lave",
+        "link": "cossmallion_IIGP/cossmallion_IIGP.html"
+      }
+    }
+  ]
+}
