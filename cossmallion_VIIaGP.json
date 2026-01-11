@@ -1,0 +1,34 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 348.72165507994754,
+            "lng": 370.5744684168198
+          },
+          {
+            "lat": 370.5744684168198,
+            "lng": 370.5744684168198
+          },
+          {
+            "lat": 370.5744684168198,
+            "lng": 490.6110487179491
+          },
+          {
+            "lat": 348.72165507994754,
+            "lng": 490.6110487179491
+          }
+        ]
+      ],
+      "data": {
+        "name": "Gros Plan",
+        "desc": "",
+        "objectType": "Monde Ressource",
+        "link": "cossmallion_VIIaGP/cossmallion_VIIaGP.html"
+      }
+    }
+  ]
+}
