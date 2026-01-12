@@ -1,0 +1,353 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 323.29593156750377,
+            "lng": 767.4196355390242
+          },
+          {
+            "lat": 343.35614088554513,
+            "lng": 767.4196355390242
+          },
+          {
+            "lat": 343.35614088554513,
+            "lng": 858.3903522138628
+          },
+          {
+            "lat": 323.29593156750377,
+            "lng": 858.3903522138628
+          }
+        ]
+      ],
+      "data": {
+        "name": "",
+        "desc": "",
+        "objectType": "Etoile",
+        "link": "cc/cossmallionE.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 395.1973566837181,
+            "lng": 857.4920838947342
+          },
+          {
+            "lat": 413.3567367805556,
+            "lng": 857.4920838947342
+          },
+          {
+            "lat": 413.3567367805556,
+            "lng": 954.7524925489826
+          },
+          {
+            "lat": 395.1973566837181,
+            "lng": 954.7524925489826
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion I",
+        "desc": "",
+        "objectType": "Géante Jovienne",
+        "link": "CC/cossmallion_I/cossmallion_I.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 410.8944479538658,
+            "lng": 621.1123565325103
+          },
+          {
+            "lat": 429.977186360712,
+            "lng": 621.1123565325103
+          },
+          {
+            "lat": 429.977186360712,
+            "lng": 722.0661984267933
+          },
+          {
+            "lat": 410.8944479538658,
+            "lng": 722.0661984267933
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion II",
+        "desc": "",
+        "objectType": "Monde Lave",
+        "link": "CC/cossmallion_II/cossmallion_II.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 358.8844697188271,
+            "lng": 1010.491566345976
+          },
+          {
+            "lat": 378.0365821113419,
+            "lng": 1010.491566345976
+          },
+          {
+            "lat": 378.0365821113419,
+            "lng": 1071.2124681358807
+          },
+          {
+            "lat": 358.8844697188271,
+            "lng": 1071.2124681358807
+          }
+        ]
+      ],
+      "data": {
+        "name": "VTR-Y71",
+        "desc": "",
+        "objectType": "Astéroïde",
+        "link": "CC/VTR-Y71/VTR-Y71.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 275.7596885629419,
+            "lng": 494.66170938094734
+          },
+          {
+            "lat": 294.6445567782244,
+            "lng": 494.66170938094734
+          },
+          {
+            "lat": 294.6445567782244,
+            "lng": 608.3770448708203
+          },
+          {
+            "lat": 275.7596885629419,
+            "lng": 608.3770448708203
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion_IIIa",
+        "desc": "",
+        "objectType": "Monde Caché",
+        "link": "CC/cossmallion_III/cossmallion_IIIPL.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 256.26563105039224,
+            "lng": 494.45864628185825
+          },
+          {
+            "lat": 274.7443730674966,
+            "lng": 494.45864628185825
+          },
+          {
+            "lat": 274.7443730674966,
+            "lng": 608.1739817717312
+          },
+          {
+            "lat": 256.26563105039224,
+            "lng": 608.1739817717312
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion III",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "CC/cossmallion_III/cossmallion_IIIPL.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 230.8827436642599,
+            "lng": 1101.414249459055
+          },
+          {
+            "lat": 249.7676118795424,
+            "lng": 1101.414249459055
+          },
+          {
+            "lat": 249.7676118795424,
+            "lng": 1205.3825561926533
+          },
+          {
+            "lat": 230.8827436642599,
+            "lng": 1205.3825561926533
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion IV",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "CC/cossmallion_IV/cossmallion_IV.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 440.64692502325767,
+            "lng": 378.1034905038276
+          },
+          {
+            "lat": 458.51647774309487,
+            "lng": 378.1034905038276
+          },
+          {
+            "lat": 458.51647774309487,
+            "lng": 486.539185417385
+          },
+          {
+            "lat": 440.64692502325767,
+            "lng": 486.539185417385
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion Va",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "CC/cossmallion_V/cossmallion_VPL.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 419.99283604579085,
+            "lng": 378.2089333827737
+          },
+          {
+            "lat": 439.08994619761654,
+            "lng": 378.2089333827737
+          },
+          {
+            "lat": 439.08994619761654,
+            "lng": 486.76092792999344
+          },
+          {
+            "lat": 419.99283604579085,
+            "lng": 486.76092792999344
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion V",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "CC/cossmallion_V/cossmallion_VPL.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 243.06652960960344,
+            "lng": 1229.5470649842512
+          },
+          {
+            "lat": 261.74833472579684,
+            "lng": 1229.5470649842512
+          },
+          {
+            "lat": 261.74833472579684,
+            "lng": 1334.5306872132946
+          },
+          {
+            "lat": 243.06652960960344,
+            "lng": 1334.5306872132946
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion VI",
+        "desc": "",
+        "objectType": "Monde Gelé",
+        "link": "CC/cossmallion_VI/cossmallion_VI.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 842.7183509345952,
+            "lng": 589.7181739922148
+          },
+          {
+            "lat": 862.1088754447776,
+            "lng": 589.7181739922148
+          },
+          {
+            "lat": 862.1088754447776,
+            "lng": 705.445748846637
+          },
+          {
+            "lat": 842.7183509345952,
+            "lng": 705.445748846637
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion VIIa",
+        "desc": "",
+        "objectType": "Monde Gelé",
+        "link": "CC/cossmallion_VII/cossmallion_VIIPL.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 789.5093292582608,
+            "lng": 592.9442493400518
+          },
+          {
+            "lat": 807.785008176276,
+            "lng": 592.9442493400518
+          },
+          {
+            "lat": 807.785008176276,
+            "lng": 701.9891335508764
+          },
+          {
+            "lat": 789.5093292582608,
+            "lng": 701.9891335508764
+          }
+        ]
+      ],
+      "data": {
+        "name": "Cossmallion VII",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "CC/cossmallion_VII/cossmallion_VIIPL.html"
+      }
+    }
+  ]
+}
