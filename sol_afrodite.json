@@ -1,0 +1,34 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 289,
+            "lng": 424
+          },
+          {
+            "lat": 309,
+            "lng": 424
+          },
+          {
+            "lat": 309,
+            "lng": 491
+          },
+          {
+            "lat": 289,
+            "lng": 491
+          }
+        ]
+      ],
+      "data": {
+        "name": "Gros Plan",
+        "desc": "",
+        "objectType": "Monde Toxique",
+        "link": "afroditeGP.html"
+      }
+    }
+  ]
+}
