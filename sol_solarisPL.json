@@ -1,0 +1,63 @@
+{
+  "points": [],
+  "zones": [
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 389.657206823666,
+            "lng": 222.5293527120936
+          },
+          {
+            "lat": 410.2788757471933,
+            "lng": 222.5293527120936
+          },
+          {
+            "lat": 410.2788757471933,
+            "lng": 276.3919207959337
+          },
+          {
+            "lat": 389.657206823666,
+            "lng": 276.3919207959337
+          }
+        ]
+      ],
+      "data": {
+        "name": "Séléné",
+        "desc": "",
+        "objectType": "Monde Stérile",
+        "link": "selene/selene.html"
+      }
+    },
+    {
+      "type": "polygon",
+      "latlngs": [
+        [
+          {
+            "lat": 233,
+            "lng": 1213
+          },
+          {
+            "lat": 257,
+            "lng": 1213
+          },
+          {
+            "lat": 257,
+            "lng": 1267
+          },
+          {
+            "lat": 233,
+            "lng": 1267
+          }
+        ]
+      ],
+      "data": {
+        "name": "Solaris",
+        "desc": "",
+        "objectType": "Monde Habitable",
+        "link": "solaris/solaris.html"
+      }
+    }
+  ]
+}
